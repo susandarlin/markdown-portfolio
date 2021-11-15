@@ -1,0 +1,1 @@
+This *list* is generated from _130 "best of" book list_ from a variety of great sources. An **algorithm** is used to create a master list based on how many lists a __particular book__ appears on. Some lists count more than others. 
